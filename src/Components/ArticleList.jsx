@@ -1,6 +1,7 @@
 import React , {useState, useEffect}from 'react';
-import AddArticle from './AddArticle';
-import NewArticleForm from './Components/NewArticleForm'; 
+import ArticleItem from './ArticleItem';
+import NewArticleForm from './NewArticleForm'; 
+import image from "../Images/image.jpg"
 
 function ArticleList() {
   const [articles, setArticles] =useState([])
@@ -28,6 +29,8 @@ useEffect(() =>{
     setArticles(updatedArticles)
   })
  }
+ 
+
  function updateAuthor(id){
   fetch(`http://localhost:3000/articles/${id}`,{
     method: "PATCH",
@@ -55,6 +58,10 @@ useEffect(() =>{
     <div className="art" >
       <NewArticleForm  addArticles= {addArticles}/>
       <div>
+        <div className='title'>
+        <h1>Green Health Articles</h1>
+        <img src={image} alt="alternate-text"/>
+          </div>
         <div className="arts" >
         {arts}
         </div>

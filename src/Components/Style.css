@@ -1,10 +1,10 @@
 *{
-    background: rgb(153, 148, 158);
+    background: white;
     align-items: center;
     font-weight: 700;
 }
 .add-new-article{
-    background: rgb(166, 170, 159);
+    background: white;
     height: 1200px;
     padding: 40px 200px;
 }
