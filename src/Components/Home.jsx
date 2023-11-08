@@ -12,7 +12,7 @@ function Home() {
         Our platform provides useful insights to help you make decisions regarding your health and well-being, whether you're searching for detailed assessments of state-of-the-art medical research or for doable advice on living a better lifestyle.
          Discover our extensive library of articles, keep up to date, and give yourself the tools you need to live a longer, healthier life."</p>
         </div>
-        
+        <img src={pina} alt="medicine" className="pina"></img>
         </div>
     )
 }
