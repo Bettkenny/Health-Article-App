@@ -18,6 +18,15 @@
       "image": "https://static.toiimg.com/photo/90979239.cms",
       "content": "COVID-19 causing coronavirus belongs to a large family of viruses called coronavirus. As per the information available on the website of the CDC, some coronaviruses cause cold-like illnesses in peopl… [+728 chars]"
     },
+{
+      "id": 7,
+      "name": "ANI News",
+      "author": null,
+      "title": "Genetic differences can affect ability to utilize energy of various nutrients: Report - ANI News",
+      "description": "Helsinki [Finland], April 21 (ANI): According to a new study by the University of Helsinki, minor genetic differences can affect the ability to utilize the energy of various nutrients.",
+      "image": "https://aniportalimages.s3.amazonaws.com/media/details/__sized__/GENEEEEEEEE2022042109041120220421102941-thumbnail-154x87-70.jpg",
+      "content": "ANI | Updated: Apr 21, 2022 15:59 IST\r\nHelsinki [Finland], April 21 (ANI): According to a new study by the University of Helsinki, minor genetic differences can affect the ability to utilize the ener… [+3713 chars]"
+    },
     {
       "id": 8,
       "name": "India Education Diary",
@@ -26,15 +35,6 @@
       "description": "A new Johns Hopkins Medicine study that surveyed a racially diverse group of more than 8,000 women has added to evidence that following a Mediterranean-style diet could lower the risk of preeclampsia by at least 20%.Preeclampsia is a potentially leth",
       "image": "https://indiaeducationdiary.in/wp-content/uploads/2021/05/Johns-Hopkins-University.jpg",
       "content": "A new Johns Hopkins Medicine study that surveyed a racially diverse group of more than 8,000 women has added to evidence that following a Mediterranean-style diet could lower the risk of preeclampsia… [+4835 chars]"
-    },
-    {
-      "id": 9,
-      "name": "India Education Diary",
-      "author": "iednewsdesk",
-      "title": "Johns Hopkins University: Lab Grown, Self-Sustainable Muscle Cells Repair Muscle Injury and Disease, Mouse Study Shows - India Education Diary",
-      "description": "In proof-of-concept experiments, Johns Hopkins Medicine scientists say they have successfully cultivated human muscle stem cells capable of renewing themselves and repairing muscle tissue damage in mice, potentially advancing efforts to treat muscle",
-      "image": "https://indiaeducationdiary.in/wp-content/uploads/2021/05/Johns-Hopkins-University.jpg",
-      "content": "In proof-of-concept experiments, Johns Hopkins Medicine scientists say they have successfully cultivated human muscle stem cells capable of renewing themselves and repairing muscle tissue damage in m… [+4568 chars]"
     },
     {
       "id": 10,
@@ -296,33 +296,7 @@
       "description": "Irritable bowel syndrome is a condition that affects around 10% of people around the world. So, when Turkish Gastroenterology Association made a statement...",
       "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/04/20/thumbs/800x531/200450.jpg",
       "content": "Irritable bowel syndrome is a condition that affects around 10% of people around the world. So, when Turkish Gastroenterology Association made a statement about the syndrome and its treatment as part… [+1852 chars]"
-    },
-    {
-      "name": "",
-      "author": "",
-      "title": "",
-      "description": "",
-      "image": "",
-      "content": "",
-      "id": 41
-    },
-    {
-      "name": "",
-      "author": "",
-      "title": "",
-      "description": "",
-      "image": "",
-      "content": "",
-      "id": 42
-    },
-    {
-      "name": "Simple Cents",
-      "author": "Sheshe",
-      "title": "thjhjj",
-      "description": "Awesome",
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEX/ypv/zp7/zJ3/z58AAAD/0aD6xpj/06L1wpXquY79yJris4nvvZHOo32rh2jWqYLesIdyWkVUQzNcSThJOiy1j27GnXijgWPPpH6ZeV1lUD1ENilrVUFRQDGHa1K0jm18YkuQcleFaVE1KiC/l3QvJRw9MSUcFhGmg2UxJx4jHBWcfF4TDwsOCwggGRT/3KlRIrVuAAAVb0lEQVR4nO1d53bquhL2jCwX3CvuBYxDIDv3/d/uypSEYtyAJGctvj87OwFLY42ma8RxL7zwwgsvvPDCCy+88MILL7zwwgsvvPDCCy+88MILp8AW/PacHoSGFEJRkhXFNL5gKrIqAAH4rxOKgJKqVOuySBzHZnB22P+ULEJdkyUB/qtEMuo4xSsTO3adIvQ0tnCyrKqSpKoyW87A10vLdmPHCn0V/3NUImNAxSvc2l3ovilQwvgRzjch+wUhVDWqeVLXTumrBP47RCIRjNKOncwz+0RKQygKwbpw3URX4D9BJMJMmUeptTUkbuCEGZmCWpVRWlQywJPndy8QhapIozXjzHHrwahUg9KxS3P2lxcSqTxP69IAMkVwsM0r+dYyqTjyR2kEMIo68mZ3zA9BlLdpvJb/Io3IBYVbaHfzGIKUR2mo/DVeRQyKtDCGypbuZ4FURXao/iUaEeSyLgx8lBxEInl2ms/+jFyF2TqODPLI+bCXpbuRRv/EMiIJbKd62Pp9PRakrZupf2AZQQ3drfqMd41oWk41++VlRNAiJ3iW2QzCPP3lZcRZWZfS86aA1IxS8/eUI4KROsZzpQHg+j3kfolE5HI3e+ICHkYBIyrkX+FUFDJX/4m3C3LhGL9AIqhJqv2M2YGzMPZ/3MIhpuPI5IcGQ+It9R+OcxA/tZ6+BU/H09LyRzUjI7CUfvSdguEUP0giBHEp/PC+AMUufmxMGtTlz0f/UHV/ikSixa",
-      "content": "Helo  ujhuuhf hwa",
-      "id": 43
-    }
+
+        }
   ]
 }
